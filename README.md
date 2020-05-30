@@ -1,2 +1,2 @@
-# InternerShop_PHP
+# InternetShop_PHP
 Создайте интернет магазин товаров
